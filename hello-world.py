@@ -1,2 +1,2 @@
-print('Hello yavaşak dünya all')
+print("hello-world")
 
